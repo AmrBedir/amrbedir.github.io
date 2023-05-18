@@ -5,7 +5,11 @@
 *Former Student at AFS Intercultural Program - YES Program (AFS Egypt).*
 <br>
 *Current Step is Reader, Next Step Leader.*
+<br>
+*Seeking for Knowledge and Wisdom.*
 
 *[Amr Bedir Bio Links](https://bio.link/amrbedir)*
 
-*Page Last Updated: **26/April/2023***
+![Snake animation](./assets/github-contribution-grid-snake.svg)
+
+*- Page Last Updated: **10/May/2023***
