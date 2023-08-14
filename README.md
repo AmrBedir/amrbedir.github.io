@@ -1,5 +1,7 @@
 *Student at Faculty of Computer & Information Sciences - Mansoura University, Volunteer at Resala Charity Organization and Amnesty International, Web Developer (Full-Stack Developer), Back-end Learner.*
 <br>
+*Digital Marketing Specialist (Social Media, SEO).*
+<br>
 *Back-end & Media Member at [CAT Reloaded Team](https://www.linkedin.com/company/cat-reloaded/).*
 <br>
 *Former Student at AFS Intercultural Program - YES Program (AFS Egypt).*
@@ -12,4 +14,4 @@
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
 
-*- Page Last Updated: **10/May/2023***
+*- Page Last Updated: **14/August/2023***
