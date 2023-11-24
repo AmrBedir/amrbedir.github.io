@@ -4,8 +4,6 @@
 <br>
 *Back-end & Media Member at [CAT Reloaded Team](https://www.linkedin.com/company/cat-reloaded/).*
 <br>
-*Former Student at AFS Intercultural Program - YES Program (AFS Egypt).*
-<br>
 *Current Step is Reader, Next Step Leader.*
 <br>
 *Seeking for Knowledge and Wisdom.*
@@ -14,4 +12,4 @@
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
 
-*- Page Last Updated: **14/August/2023***
+*- Page Last Updated: **24/November/2023***
