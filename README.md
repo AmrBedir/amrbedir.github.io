@@ -4,6 +4,8 @@
 <br>
 *Back-end & Media Member at [CAT Reloaded Team](https://www.linkedin.com/company/cat-reloaded/).*
 <br>
+*Marketing at [Youth Entrepreneurship Council](https://www.linkedin.com/company/youth-entrep-council), Mansoura University.*
+<br>
 *Current Step is Reader, Next Step Leader.*
 <br>
 *Seeking for Knowledge and Wisdom.*
@@ -12,4 +14,4 @@
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
 
-*- Page Last Updated: **24/November/2023***
+*- Page Last Updated: **11/December/2023***
